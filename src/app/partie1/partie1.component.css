@@ -1,0 +1,25 @@
+.login {
+    background-image: url(../img/image1.jpg);
+    /* //Could change to background-color here but it doesn"t matter */
+    height: 400px;
+}
+
+.div1 {
+    color: white;
+    padding-top: 100px;
+    margin-left: 400px;
+}
+
+.aaa {
+    margin-left: 500px;
+    color: white;
+}
+
+.groove {
+    border-style: groove;
+    width: 350px;
+}
+
+.s {
+    color: orange;
+}
